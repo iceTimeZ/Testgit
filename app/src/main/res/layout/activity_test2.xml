@@ -9,6 +9,13 @@
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-        android:text="我等下会回到上一次提交"
+
+            android:text="我等下会回到上一次提交"
+            tools:ignore="MissingConstraints" />
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="我在2007e81这个提交后在本地修改了部分并add"
             tools:ignore="MissingConstraints" />
 </androidx.constraintlayout.widget.ConstraintLayout>
