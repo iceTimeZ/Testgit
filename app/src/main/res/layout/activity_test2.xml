@@ -10,7 +10,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
 
-            android:text="我继续回去第一个提交"
+
+            android:text="我等下会回到上一次提交"
             tools:ignore="MissingConstraints" />
 
     <TextView
